@@ -21,6 +21,10 @@ body{
     width: 580px;
 }
 
+.photo-Container{
+    display: block;
+}
+
 .photo-main img{
  position: relative;
 margin-left:-35px;
